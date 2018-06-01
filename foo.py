@@ -1,6 +1,7 @@
 from httplib import simple_get
 from MailHelper import MailInit
 from bs4 import BeautifulSoup
+import datetime
 
 
 
@@ -16,8 +17,6 @@ def WalinFastigheter():
 	fastigheter = html.find_all('div', attrs={'class':'fastighet'})
 
 	
-	print(fastigheter)
-
 	message = ""
 	for fast in fastigheter:
 		for a in fast.select('a'):
@@ -27,6 +26,8 @@ def WalinFastigheter():
 				message += title
 				message += '\n'
 				message += a.get('href')
+			else:
+				Report("Inga fastigheter ligger ute idag.", fastigheter)
 
 
 
@@ -50,7 +51,6 @@ def Forvaltaren():
 	fastigheter = html.find_all('tr', attrs={'class':'listitem-odd '})
 	
 
-	print(fastigheter)
 
 def IKANO(): 
 	
@@ -64,13 +64,24 @@ def IKANO():
 	
 	address = set()
 
-	for fastighet in fastigheter:
-		print(fastighet.select('td'))
+		
 
 
+def Report(message, data):
+	currentTime = datetime.datetime.now()
+	message = str(currentTime) + ': ' + message + '\n'; 
+	
+	with open('log.txt', 'a') as log:
+		log.write(message)
+		log.close()
 
-	print(fastigheter)
+	
+	filenametest = 'test-{date:%Y-%m-%d}.txt'.format( date=datetime.datetime.now() )
+
+	fileName = str(currentTime)[-8] + '.txt'
+	dataFile = open(filenametest, 'w')
+	dataFile.write(str(data))
+	dataFile.close()
 
 
-
-IKANO()
+WalinFastigheter()

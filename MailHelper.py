@@ -19,3 +19,4 @@ def MailInit(MsgBody):
 	text = mgs.as_string()
 	server.sendmail(fromAdr, toAdr, text)
 	server.quit()
+
