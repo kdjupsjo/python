@@ -4,10 +4,10 @@ from bs4 import BeautifulSoup
 import datetime
 
 
-
-
 def WalinFastigheter():
-	raw_html =  simple_get("http://wahlinfastigheter.se/lediga-objekt/lagenhet/")
+	
+	site_url = "http://wahlinfastigheter.se/lediga-objekt/lagenhet/"
+	raw_html =  simple_get(site_url)
 
 
 	print(len(raw_html))
@@ -32,9 +32,11 @@ def WalinFastigheter():
 
 
 	if(len(message) > 0 ):
-		FormEmail(message)
+		MailInit(message)
+	else:
+		MailInit("Inga fastigheter ligger ute idag, checked: " + site_url)
 
-	print(message)
+
 
 
 
@@ -49,7 +51,7 @@ def Forvaltaren():
 	html = BeautifulSoup(raw_html, 'html.parser')
 
 	fastigheter = html.find_all('tr', attrs={'class':'listitem-odd '})
-	
+	fastigheter_even = html.find_all('tr', attrs={'class':'listitem-even '})
 
 
 def IKANO(): 

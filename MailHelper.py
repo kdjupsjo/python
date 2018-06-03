@@ -3,7 +3,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 def MailInit(MsgBody):
-	fromAdr = "excellent.rentz@gmail.com"
+	fromAdr = "rentbot3000@gmail.com"
 	toAdr = "kristoffer.djupsjo@gmail.com"
 
 	mgs = MIMEMultipart()
@@ -14,7 +14,7 @@ def MailInit(MsgBody):
 
 	server = smtplib.SMTP('smtp.gmail.com', 587)
 	server.starttls()
-	server.login(fromAdr, "PASSWORD_GOES_HERE")
+	server.login(fromAdr, "ge_mig_bostad_9!34")
 
 	text = mgs.as_string()
 	server.sendmail(fromAdr, toAdr, text)
