@@ -23,3 +23,7 @@
 2018-06-19 15:46:03.908138: Inga fastigheter ligger ute idag.
 2018-06-19 15:47:21.846843: Inga fastigheter ligger ute idag.
 2018-06-19 15:47:22.356237: Lägenheter hos M2Gruppen hittades
+2018-06-19 15:52:53.946346: Inga fastigheter ligger ute idag.
+2018-06-19 15:52:57.669079: Lägenheter hos M2Gruppen hittades
+2018-06-19 15:54:37.632902: Inga fastigheter ligger ute idag.
+2018-06-19 15:54:40.670232: Lägenheter hos M2Gruppen hittades

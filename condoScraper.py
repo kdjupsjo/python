@@ -32,9 +32,9 @@ def WalinFastigheter():
 
 
 	if(len(message) > 0 ):
-		MailInit(message)
+		#MailInit(message)
 	else:
-		MailInit("Inga fastigheter ligger ute idag, checked: " + site_url)
+		#MailInit("Inga fastigheter ligger ute idag, checked: " + site_url)
 
 
 
@@ -54,10 +54,10 @@ def M2Gruppen():
 		href = "https://www.m2gruppen.se"
 		href += link.get('href')
 		title = link.find('h2').contents
-		message += str(title) + ": " + href + "/n";
+		message += str(title) + ": " + href + "\n"
 
 	if(len(message) > 0 ):
-		#FormEmail(message)
+		#MailInit(message)
 		Report("Lägenheter hos M2Gruppen hittades", fastigheter)
 	else:
 		Report("Inga Lägenheter ligger ute idag.", fastigheter)	
@@ -93,17 +93,13 @@ def IKANO():
 
 def Report(message, data):
 	currentTime = datetime.datetime.now()
-	message = str(currentTime) + ': ' + message + '\n'; 
-	
+	message = str(currentTime) + ': ' + message + '\n'; 	
 	with open('log.txt', 'a') as log:
 		log.write(message)
 		log.close()
 
-	
-	filenametest = 'test-{date:%Y-%m-%d}.txt'.format( date=datetime.datetime.now() )
-
-	fileName = str(currentTime)[-8] + '.txt'
-	dataFile = open(filenametest, 'w')
+	filename = 'results-{date:%Y-%m-%d}.txt'.format( date=datetime.datetime.now() )
+	dataFile = open(filename, 'w')
 	dataFile.write(str(data))
 	dataFile.close()
 
