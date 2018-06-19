@@ -1,0 +1,1362 @@
+[<div class="box news-grid__item" onclick="window.location = '/bostader/3r5ibokp1kdif9jc/';">
+<div class="news-grid__image" style="background-image: url('https://www.m2gruppen.se/app/uploads/m2gruppen/42LQG6LOABLSO595.jpg');"></div>
+<div class="news-grid__content">
+<div class="news-grid__meta">
+<ul class="post-categories">
+<li>
+<a href="/bostader/3r5ibokp1kdif9jc/">
+                              Sommen
+                            </a>
+</li>
+</ul>
+<time>
+<!-- stdClass Object
+(
+    [antalRum] => 2
+    [boArea] => 62.4
+    [fastighetGuid] => 3R5IA24FJKDIEOHS
+    [fastighetsbeteckning] => Rockebro 7:164
+    [guid] => 3R5IBOKP1KDIF9JC
+    [lagenhetsnr] => 708131-1010
+    [objekttyp] => Hyreslägenhet
+    [omrade] => Sommen
+    [status] => Hyresledig
+    [totalAntalVaningar] => 0
+    [vaningsplan] => 2
+    [upplatelseform] => Hyresrätt
+    [objektkategori] => 
+    [huvudhandlaggare] => stdClass Object
+        (
+            [namn] => Lena Klingstedt
+            [befattning] => 
+            [telefonDirekt] => 010-7060090
+            [telefonMobil] => 
+            [epost] => lena.klingstedt@m2gruppen.se
+            [handlaggartyp] => Uthyrare
+            [kategori] => 
+            [guid] => 429DDMCI9NCVDD7K
+            [avdelning] => 
+            [bildGuid] => 
+        )
+
+    [handlaggare2] => 
+    [bilder] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [namn] => Sommen Mossebogatan 6 o 8
+                    [kategori] => Exteriörbild
+                    [guid] => 42LQG6LOABLSO595
+                    [andringsdatum] => 2012-10-23T10:08:33
+                    [filTyp] => JPG
+                    [bildText] => 
+                )
+
+        )
+
+    [filer] => Array
+        (
+        )
+
+    [adress] => stdClass Object
+        (
+            [gatuadress] => Mossebogatan 6 A
+            [ort] => Sommen
+            [postnummer] => 573 61
+            [land] => 
+            [landskod] => 
+        )
+
+    [ovrigaHandlaggare] => Array
+        (
+        )
+
+    [saljandeBeskrivningar] => stdClass Object
+        (
+            [rubrik] => 
+            [kort] => Lägenhet nära badplats.
+            [lang] => Fin lägenhet med närhet till natur och sjön Sommen.
+            [rubrikAnnons] => 
+            [rubrikAnnons2] => 
+            [annonsText] => 
+            [annonsText2] => 
+        )
+
+    [ovrigt] => stdClass Object
+        (
+            [text] => 
+        )
+
+    [vagbeskrivning] => stdClass Object
+        (
+            [rT90X] => 6446528
+            [rT90Y] => 1450592
+            [beskrivning] => 
+            [latitud] => 58.139774177232
+            [longitud] => 14.966371463904
+        )
+
+    [kontor] => stdClass Object
+        (
+            [gatuadress] => 
+            [postadress] => Box 2
+            [ort] => Tranås
+            [hemsida] => 
+            [postnummer] => 573 21
+            [kundNr] => 840027
+            [namn] => M2 Gruppen
+            [epost] => info@m2gruppen.se
+            [texter] => Array
+                (
+                )
+
+        )
+
+    [lankar] => Array
+        (
+        )
+
+    [kontratkuppgifter] => stdClass Object
+        (
+            [tilltradesdag] => 2018-08-01T00:00:00
+            [tidigasteTilltradelsedag] => 
+        )
+
+    [parkering] => stdClass Object
+        (
+            [sammanstallning] => Garageplats. Till garageplatsen är det separat kö.
+P-plats 1: Parkeringsplats. Går att hyra för 84 kr/mån.
+P-plats 2: Parkeringsplats med eluttag. Går att hyra för 155 kr/mån.
+        )
+
+    [balkongUteplats] => stdClass Object
+        (
+            [sammanstallning] => Balkong
+Parabol ej tillåten.
+        )
+
+    [gemensammaUtrymmen] => stdClass Object
+        (
+            [sammanstallning] => Det finns cykelförråd, källarförråd och tvättstuga med torkrum.
+            [gardsplats] => 
+            [gardsplatsText] => 
+        )
+
+    [hiss] => stdClass Object
+        (
+            [hissFinns] => 
+            [hissFinnsEj] => 1
+            [ovrigt] => 
+            [antPersHiss] => 0
+            [maxLastHiss] => 0
+        )
+
+    [internet] => stdClass Object
+        (
+            [sammanstallning] => Fast lina. Via kabel-TV.
+        )
+
+    [kommun] => stdClass Object
+        (
+            [lan] => Jönköping
+            [lkf] => 0687
+            [namn] => Tranås
+        )
+
+    [manadshyra] => stdClass Object
+        (
+            [hyra] => 4323
+            [text] => Månadshyra 4 323 kronor, i hyran ingår värme och vatten.
+            [tillagg1] => 0
+            [tillagg2] => 0
+            [tillagg3] => 0
+            [tillagg4] => 0
+            [tillagg1Text] => 
+            [tillagg2Text] => 
+            [tillagg3Text] => 
+            [tillagg4Text] => 
+        )
+
+    [omgivning] => stdClass Object
+        (
+            [beskrivning] => 
+            [kommunikationer] => Avstånd till busshållplats 50 meter.
+            [service] => 
+            [allmant] => 
+        )
+
+    [tvAnslutning] => stdClass Object
+        (
+            [sammanstallning] => Ansluten till kabelnät.
+        )
+
+    [rumsbeskrivningarKok] => Array
+        (
+        )
+
+    [rumsbeskrivningarFri] => Array
+        (
+        )
+
+    [rumsbeskrivningarGrund] => Array
+        (
+        )
+
+    [rumsbeskrivningarHygien] => Array
+        (
+        )
+
+    [rumsbeskrivningarTvatt] => Array
+        (
+        )
+
+    [allmanBeskrivning] => stdClass Object
+        (
+            [beskrivning] => Fint bostadsområde i mindre samhälle nära natur och den fantastiska sjön Sommen.
+            [arkitekt] => 
+            [historik] => 
+            [kommunikation] => 
+            [omgivning] => 
+            [service] => 
+        )
+
+    [internetinstallningar] => stdClass Object
+        (
+            [visaHyra] => 1
+            [visaVagbeskrivning] => 1
+            [visaGatuadress] => 1
+            [visaPris] => 
+            [enskiltBruk] => 
+        )
+
+    [egnaLagenhetsuppgifter] => 
+    [planlosning] => stdClass Object
+        (
+            [text] => 
+        )
+
+    [rum] => stdClass Object
+        (
+            [badrum] => 
+            [kokstyp] => Kök
+        )
+
+    [texter] => 
+)
+1 -->
+                                                          Yta: 62.4 kvm  
+                                                        <br/>
+                                                          Antal rum: 2
+                            
+                          
+                        
+                        
+
+                      </time>
+</div>
+<a class="news-grid__link" href="/bostader/3r5ibokp1kdif9jc/">
+<h2>Mossebogatan 6 A</h2>
+</a>
+</div>
+</div>, <div class="box news-grid__item" onclick="window.location = '/bostader/3r5iboksvkdif9jo/';">
+<div class="news-grid__image" style="background-image: url('https://www.m2gruppen.se/app/uploads/m2gruppen/42LQG7GO2BLSO6F3.jpg');"></div>
+<div class="news-grid__content">
+<div class="news-grid__meta">
+<ul class="post-categories">
+<li>
+<a href="/bostader/3r5iboksvkdif9jo/">
+                              Sommen
+                            </a>
+</li>
+</ul>
+<time>
+<!-- stdClass Object
+(
+    [antalRum] => 3
+    [boArea] => 78.9
+    [fastighetGuid] => 3R5IA24FJKDIEOHS
+    [fastighetsbeteckning] => Rockebro 7:164
+    [guid] => 3R5IBOKSVKDIF9JO
+    [lagenhetsnr] => 708131-1021
+    [objekttyp] => Hyreslägenhet
+    [omrade] => Sommen
+    [status] => Hyresledig
+    [totalAntalVaningar] => 0
+    [vaningsplan] => 2
+    [upplatelseform] => Hyresrätt
+    [objektkategori] => 
+    [huvudhandlaggare] => stdClass Object
+        (
+            [namn] => Lena Klingstedt
+            [befattning] => 
+            [telefonDirekt] => 010-7060090
+            [telefonMobil] => 
+            [epost] => lena.klingstedt@m2gruppen.se
+            [handlaggartyp] => Förvaltningsassistent
+            [kategori] => 
+            [guid] => 429DDMCI9NCVDD7K
+            [avdelning] => 
+            [bildGuid] => 
+        )
+
+    [handlaggare2] => 
+    [bilder] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [namn] => Sommen Mossebogatan 6 o 8
+                    [kategori] => Exteriörbild
+                    [guid] => 42LQG7GO2BLSO6F3
+                    [andringsdatum] => 2012-10-23T10:05:36
+                    [filTyp] => JPG
+                    [bildText] => 
+                )
+
+            [1] => stdClass Object
+                (
+                    [namn] => Sommen_Mossebo_Tns_web
+                    [kategori] => Exteriörbild
+                    [guid] => 42LQO53SIBLSTBTO
+                    [andringsdatum] => 2012-10-23T11:01:17
+                    [filTyp] => jpg
+                    [bildText] => 
+                )
+
+        )
+
+    [filer] => Array
+        (
+        )
+
+    [adress] => stdClass Object
+        (
+            [gatuadress] => Mossebogatan 6 B
+            [ort] => Sommen
+            [postnummer] => 573 61
+            [land] => 
+            [landskod] => 
+        )
+
+    [ovrigaHandlaggare] => Array
+        (
+        )
+
+    [saljandeBeskrivningar] => stdClass Object
+        (
+            [rubrik] => 
+            [kort] => 
+            [lang] => Ljus lägenhet I Sommen. Bra kök med utgång till  balkong.
+            [rubrikAnnons] => 
+            [rubrikAnnons2] => 
+            [annonsText] => 
+            [annonsText2] => 
+        )
+
+    [ovrigt] => 
+    [vagbeskrivning] => stdClass Object
+        (
+            [rT90X] => 6446507
+            [rT90Y] => 1450592
+            [beskrivning] => 
+            [latitud] => 58.139585655017
+            [longitud] => 14.966375902637
+        )
+
+    [kontor] => stdClass Object
+        (
+            [gatuadress] => 
+            [postadress] => Box 2
+            [ort] => Tranås
+            [hemsida] => 
+            [postnummer] => 573 21
+            [kundNr] => 840027
+            [namn] => M2 Gruppen
+            [epost] => info@m2gruppen.se
+            [texter] => Array
+                (
+                )
+
+        )
+
+    [lankar] => Array
+        (
+        )
+
+    [kontratkuppgifter] => stdClass Object
+        (
+            [tilltradesdag] => 0001-01-01T00:00:00
+            [tidigasteTilltradelsedag] => Enligt överenskommelse
+        )
+
+    [parkering] => stdClass Object
+        (
+            [sammanstallning] => Garageplats. Till garageplatsen är det separat kö.
+P-plats 1: Parkeringsplats. Går att hyra för 85 kr/mån.
+P-plats 2: Parkeringsplats med eluttag. Går att hyra för 155 kr/mån.
+        )
+
+    [balkongUteplats] => stdClass Object
+        (
+            [sammanstallning] => Balkong
+Parabol ej tillåten.
+        )
+
+    [gemensammaUtrymmen] => stdClass Object
+        (
+            [sammanstallning] => Det finns cykelförråd, källarförråd och tvättstuga med torkrum.
+            [gardsplats] => Gård med boulebana
+            [gardsplatsText] => 
+        )
+
+    [hiss] => stdClass Object
+        (
+            [hissFinns] => 
+            [hissFinnsEj] => 1
+            [ovrigt] => 
+            [antPersHiss] => 0
+            [maxLastHiss] => 0
+        )
+
+    [internet] => stdClass Object
+        (
+            [sammanstallning] => Fast lina. Via kabel-TV.
+        )
+
+    [kommun] => stdClass Object
+        (
+            [lan] => Jönköping
+            [lkf] => 0687
+            [namn] => Tranås
+        )
+
+    [manadshyra] => stdClass Object
+        (
+            [hyra] => 5279
+            [text] => Månadshyra 5 279 kronor, i hyran ingår värme och vatten.
+            [tillagg1] => 0
+            [tillagg2] => 0
+            [tillagg3] => 0
+            [tillagg4] => 0
+            [tillagg1Text] => 
+            [tillagg2Text] => 
+            [tillagg3Text] => 
+            [tillagg4Text] => 
+        )
+
+    [omgivning] => stdClass Object
+        (
+            [beskrivning] => 
+            [kommunikationer] => Avstånd till busshållplats 50 meter.
+            [service] => 
+            [allmant] => 
+        )
+
+    [tvAnslutning] => stdClass Object
+        (
+            [sammanstallning] => Ansluten till kabelnät.
+        )
+
+    [rumsbeskrivningarKok] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+        )
+
+    [rumsbeskrivningarFri] => Array
+        (
+        )
+
+    [rumsbeskrivningarGrund] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+            [1] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+            [2] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+            [3] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+        )
+
+    [rumsbeskrivningarHygien] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+        )
+
+    [rumsbeskrivningarTvatt] => Array
+        (
+        )
+
+    [allmanBeskrivning] => stdClass Object
+        (
+            [beskrivning] => Fint bostadsområde i mindre samhälle nära natur och den fantastiska sjön Sommen.
+            [arkitekt] => 
+            [historik] => 
+            [kommunikation] => 
+            [omgivning] => 
+            [service] => 
+        )
+
+    [internetinstallningar] => stdClass Object
+        (
+            [visaHyra] => 1
+            [visaVagbeskrivning] => 1
+            [visaGatuadress] => 1
+            [visaPris] => 
+            [enskiltBruk] => 
+        )
+
+    [egnaLagenhetsuppgifter] => stdClass Object
+        (
+            [xmlEgenDef] => <object table="CMBoLghKatED">
+	<fields>
+	</fields>
+</object>
+        )
+
+    [planlosning] => 
+    [rum] => stdClass Object
+        (
+            [badrum] => 
+            [kokstyp] => Kök
+        )
+
+    [texter] => 
+)
+1 -->
+                                                          Yta: 78.9 kvm  
+                                                        <br/>
+                                                          Antal rum: 3
+                            
+                          
+                        
+                        
+
+                      </time>
+</div>
+<a class="news-grid__link" href="/bostader/3r5iboksvkdif9jo/">
+<h2>Mossebogatan 6 B</h2>
+</a>
+</div>
+</div>, <div class="box news-grid__item" onclick="window.location = '/bostader/3r5iboktvkdif9jt/';">
+<div class="news-grid__image" style="background-image: url('https://www.m2gruppen.se/app/uploads/m2gruppen/45OJCKVDUPTI4JOL.jpg');"></div>
+<div class="news-grid__content">
+<div class="news-grid__meta">
+<ul class="post-categories">
+<li>
+<a href="/bostader/3r5iboktvkdif9jt/">
+                              Sommen
+                            </a>
+</li>
+</ul>
+<time>
+<!-- stdClass Object
+(
+    [antalRum] => 3
+    [boArea] => 78.8
+    [fastighetGuid] => 3R5IA24FJKDIEOHS
+    [fastighetsbeteckning] => Rockebro 7:164
+    [guid] => 3R5IBOKTVKDIF9JT
+    [lagenhetsnr] => 708132-1026
+    [objekttyp] => Hyreslägenhet
+    [omrade] => Sommen
+    [status] => Hyresledig
+    [totalAntalVaningar] => 0
+    [vaningsplan] => 1
+    [upplatelseform] => Hyresrätt
+    [objektkategori] => 
+    [huvudhandlaggare] => stdClass Object
+        (
+            [namn] => Lena Klingstedt
+            [befattning] => 
+            [telefonDirekt] => 010-7060090
+            [telefonMobil] => 
+            [epost] => lena.klingstedt@m2gruppen.se
+            [handlaggartyp] => Uthyrare
+            [kategori] => 
+            [guid] => 429DDMCI9NCVDD7K
+            [avdelning] => 
+            [bildGuid] => 
+        )
+
+    [handlaggare2] => 
+    [bilder] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [namn] => Sommen Mossebogatan 6 o 8
+                    [kategori] => Exteriörbild
+                    [guid] => 45OJCKVDUPTI4JOL
+                    [andringsdatum] => 2013-07-02T13:37:15
+                    [filTyp] => JPG
+                    [bildText] => 
+                )
+
+        )
+
+    [filer] => Array
+        (
+        )
+
+    [adress] => stdClass Object
+        (
+            [gatuadress] => Mossebogatan 8 A
+            [ort] => Sommen
+            [postnummer] => 573 61
+            [land] => 
+            [landskod] => 
+        )
+
+    [ovrigaHandlaggare] => Array
+        (
+        )
+
+    [saljandeBeskrivningar] => stdClass Object
+        (
+            [rubrik] => 
+            [kort] => Ljus lägenhet  i samhället Sommen, nära bad och natur.
+Tvättmaskin och balkong.
+            [lang] => 
+            [rubrikAnnons] => 
+            [rubrikAnnons2] => 
+            [annonsText] => 
+            [annonsText2] => 
+        )
+
+    [ovrigt] => 
+    [vagbeskrivning] => stdClass Object
+        (
+            [rT90X] => 6434805
+            [rT90Y] => 1451729
+            [beskrivning] => 
+            [latitud] => 58.034658112827
+            [longitud] => 14.988084989361
+        )
+
+    [kontor] => stdClass Object
+        (
+            [gatuadress] => 
+            [postadress] => Box 2
+            [ort] => Tranås
+            [hemsida] => 
+            [postnummer] => 573 21
+            [kundNr] => 840027
+            [namn] => M2 Gruppen
+            [epost] => info@m2gruppen.se
+            [texter] => Array
+                (
+                )
+
+        )
+
+    [lankar] => Array
+        (
+        )
+
+    [kontratkuppgifter] => stdClass Object
+        (
+            [tilltradesdag] => 0001-01-01T00:00:00
+            [tidigasteTilltradelsedag] => Enligt överenskommelse
+        )
+
+    [parkering] => stdClass Object
+        (
+            [sammanstallning] => Garageplats. Till garageplatsen är det separat kö.
+P-plats 1: Parkeringsplats. Går att hyra för 87 kr/mån.
+P-plats 2: Parkeringsplats med eluttag. Går att hyra för 160 kr/mån.
+        )
+
+    [balkongUteplats] => stdClass Object
+        (
+            [sammanstallning] => Balkong
+Parabol ej tillåten.
+        )
+
+    [gemensammaUtrymmen] => stdClass Object
+        (
+            [sammanstallning] => Det finns cykelförråd, källarförråd och tvättstuga.
+            [gardsplats] => 
+            [gardsplatsText] => 
+        )
+
+    [hiss] => 
+    [internet] => stdClass Object
+        (
+            [sammanstallning] => Fast lina. Via kabel-TV.
+        )
+
+    [kommun] => stdClass Object
+        (
+            [lan] => Jönköping
+            [lkf] => 0687
+            [namn] => Tranås
+        )
+
+    [manadshyra] => stdClass Object
+        (
+            [hyra] => 5261
+            [text] => 
+            [tillagg1] => 145
+            [tillagg2] => 0
+            [tillagg3] => 0
+            [tillagg4] => 0
+            [tillagg1Text] => Tillägg tvättmaskin/torktuml.
+            [tillagg2Text] => 
+            [tillagg3Text] => 
+            [tillagg4Text] => 
+        )
+
+    [omgivning] => stdClass Object
+        (
+            [beskrivning] => 
+            [kommunikationer] => Avstånd till busshållplats 50 meter.
+            [service] => 
+            [allmant] => 
+        )
+
+    [tvAnslutning] => stdClass Object
+        (
+            [sammanstallning] => Ansluten till kabelnät.
+        )
+
+    [rumsbeskrivningarKok] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+        )
+
+    [rumsbeskrivningarFri] => Array
+        (
+        )
+
+    [rumsbeskrivningarGrund] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+            [1] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+            [2] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+            [3] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+        )
+
+    [rumsbeskrivningarHygien] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+        )
+
+    [rumsbeskrivningarTvatt] => Array
+        (
+        )
+
+    [allmanBeskrivning] => stdClass Object
+        (
+            [beskrivning] => Fin lägenhet i mindre ort nära den fantastiska sjön Sommen
+            [arkitekt] => 
+            [historik] => 
+            [kommunikation] => 
+            [omgivning] => 
+            [service] => 
+        )
+
+    [internetinstallningar] => stdClass Object
+        (
+            [visaHyra] => 1
+            [visaVagbeskrivning] => 1
+            [visaGatuadress] => 1
+            [visaPris] => 
+            [enskiltBruk] => 
+        )
+
+    [egnaLagenhetsuppgifter] => stdClass Object
+        (
+            [xmlEgenDef] => <object table="CMBoLghKatED">
+	<fields>
+	</fields>
+</object>
+        )
+
+    [planlosning] => 
+    [rum] => stdClass Object
+        (
+            [badrum] => 
+            [kokstyp] => Kök
+        )
+
+    [texter] => 
+)
+1 -->
+                                                          Yta: 78.8 kvm  
+                                                        <br/>
+                                                          Antal rum: 3
+                            
+                          
+                        
+                        
+
+                      </time>
+</div>
+<a class="news-grid__link" href="/bostader/3r5iboktvkdif9jt/">
+<h2>Mossebogatan 8 A</h2>
+</a>
+</div>
+</div>, <div class="box news-grid__item" onclick="window.location = '/bostader/3r5ibokp1kdif9jd/';">
+<div class="news-grid__image" style="background-image: url('https://www.m2gruppen.se/app/uploads/m2gruppen/42LQG6O3IBLSO5CM.jpg');"></div>
+<div class="news-grid__content">
+<div class="news-grid__meta">
+<ul class="post-categories">
+<li>
+<a href="/bostader/3r5ibokp1kdif9jd/">
+                              Sommen
+                            </a>
+</li>
+</ul>
+<time>
+<!-- stdClass Object
+(
+    [antalRum] => 1
+    [boArea] => 34.3
+    [fastighetGuid] => 3R5IA24FJKDIEOHS
+    [fastighetsbeteckning] => Rockebro 7:164
+    [guid] => 3R5IBOKP1KDIF9JD
+    [lagenhetsnr] => 708131-1011
+    [objekttyp] => Hyreslägenhet
+    [omrade] => Sommen
+    [status] => Hyresledig
+    [totalAntalVaningar] => 0
+    [vaningsplan] => 2
+    [upplatelseform] => Hyresrätt
+    [objektkategori] => 
+    [huvudhandlaggare] => stdClass Object
+        (
+            [namn] => Lena Klingstedt
+            [befattning] => 
+            [telefonDirekt] => 010-7060090
+            [telefonMobil] => 
+            [epost] => lena.klingstedt@m2gruppen.se
+            [handlaggartyp] => Uthyrare
+            [kategori] => 
+            [guid] => 429DDMCI9NCVDD7K
+            [avdelning] => 
+            [bildGuid] => 
+        )
+
+    [handlaggare2] => 
+    [bilder] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [namn] => Sommen Mossebogatan 6 o 8
+                    [kategori] => Exteriörbild
+                    [guid] => 42LQG6O3IBLSO5CM
+                    [andringsdatum] => 2012-10-23T10:08:05
+                    [filTyp] => JPG
+                    [bildText] => 
+                )
+
+        )
+
+    [filer] => Array
+        (
+        )
+
+    [adress] => stdClass Object
+        (
+            [gatuadress] => Mossebogatan 6 A
+            [ort] => Sommen
+            [postnummer] => 573 61
+            [land] => 
+            [landskod] => 
+        )
+
+    [ovrigaHandlaggare] => Array
+        (
+        )
+
+    [saljandeBeskrivningar] => stdClass Object
+        (
+            [rubrik] => 
+            [kort] => Fin lägenhet med balkong i det fina samhället Sommen.
+            [lang] => 
+            [rubrikAnnons] => 
+            [rubrikAnnons2] => 
+            [annonsText] => 
+            [annonsText2] => 
+        )
+
+    [ovrigt] => 
+    [vagbeskrivning] => stdClass Object
+        (
+            [rT90X] => 6434919
+            [rT90Y] => 1451775
+            [beskrivning] => 
+            [latitud] => 58.035686542823
+            [longitud] => 14.988840211263
+        )
+
+    [kontor] => stdClass Object
+        (
+            [gatuadress] => 
+            [postadress] => Box 2
+            [ort] => Tranås
+            [hemsida] => 
+            [postnummer] => 573 21
+            [kundNr] => 840027
+            [namn] => M2 Gruppen
+            [epost] => info@m2gruppen.se
+            [texter] => Array
+                (
+                )
+
+        )
+
+    [lankar] => Array
+        (
+        )
+
+    [kontratkuppgifter] => stdClass Object
+        (
+            [tilltradesdag] => 0001-01-01T00:00:00
+            [tidigasteTilltradelsedag] => Enligt överenskommelse
+        )
+
+    [parkering] => stdClass Object
+        (
+            [sammanstallning] => Garageplats. Till garageplatsen är det separat kö.
+P-plats 1: Parkeringsplats. Går att hyra för 87 kr/mån.
+P-plats 2: Parkeringsplats med eluttag. Går att hyra för 150 kr/mån.
+        )
+
+    [balkongUteplats] => stdClass Object
+        (
+            [sammanstallning] => Balkong
+Parabol ej tillåten.
+        )
+
+    [gemensammaUtrymmen] => stdClass Object
+        (
+            [sammanstallning] => Det finns cykelförråd, källarförråd och tvättstuga med torkrum.
+            [gardsplats] => 
+            [gardsplatsText] => 
+        )
+
+    [hiss] => 
+    [internet] => stdClass Object
+        (
+            [sammanstallning] => Fast lina. Via kabel-TV.
+        )
+
+    [kommun] => stdClass Object
+        (
+            [lan] => Jönköping
+            [lkf] => 0687
+            [namn] => Tranås
+        )
+
+    [manadshyra] => stdClass Object
+        (
+            [hyra] => 2481
+            [text] => Månadshyra 2 481 kronor, i hyran ingår värme och vatten.
+            [tillagg1] => 0
+            [tillagg2] => 0
+            [tillagg3] => 0
+            [tillagg4] => 0
+            [tillagg1Text] => 
+            [tillagg2Text] => 
+            [tillagg3Text] => 
+            [tillagg4Text] => 
+        )
+
+    [omgivning] => stdClass Object
+        (
+            [beskrivning] => 
+            [kommunikationer] => Avstånd till busshållplats 50 meter.
+            [service] => 
+            [allmant] => 
+        )
+
+    [tvAnslutning] => stdClass Object
+        (
+            [sammanstallning] => Ansluten till kabelnät.
+        )
+
+    [rumsbeskrivningarKok] => Array
+        (
+        )
+
+    [rumsbeskrivningarFri] => Array
+        (
+        )
+
+    [rumsbeskrivningarGrund] => Array
+        (
+        )
+
+    [rumsbeskrivningarHygien] => Array
+        (
+        )
+
+    [rumsbeskrivningarTvatt] => Array
+        (
+        )
+
+    [allmanBeskrivning] => stdClass Object
+        (
+            [beskrivning] => Fint bostadsområde i mindre samhälle nära natut och den fantastiska sjön Sommen.
+            [arkitekt] => 
+            [historik] => 
+            [kommunikation] => 
+            [omgivning] => 
+            [service] => 
+        )
+
+    [internetinstallningar] => stdClass Object
+        (
+            [visaHyra] => 1
+            [visaVagbeskrivning] => 1
+            [visaGatuadress] => 1
+            [visaPris] => 
+            [enskiltBruk] => 
+        )
+
+    [egnaLagenhetsuppgifter] => 
+    [planlosning] => 
+    [rum] => stdClass Object
+        (
+            [badrum] => 
+            [kokstyp] => Kokvrå
+        )
+
+    [texter] => 
+)
+1 -->
+                                                          Yta: 34.3 kvm  
+                                                        <br/>
+                                                          Antal rum: 1
+                            
+                          
+                        
+                        
+
+                      </time>
+</div>
+<a class="news-grid__link" href="/bostader/3r5ibokp1kdif9jd/">
+<h2>Mossebogatan 6 A</h2>
+</a>
+</div>
+</div>, <div class="box news-grid__item" onclick="window.location = '/bostader/3r5ibokutkdif9ju/';">
+<div class="news-grid__image" style="background-image: url('https://www.m2gruppen.se/app/uploads/m2gruppen/45OJCL3JIPTI4K6O.jpg');"></div>
+<div class="news-grid__content">
+<div class="news-grid__meta">
+<ul class="post-categories">
+<li>
+<a href="/bostader/3r5ibokutkdif9ju/">
+                              Sommen
+                            </a>
+</li>
+</ul>
+<time>
+<!-- stdClass Object
+(
+    [antalRum] => 2
+    [boArea] => 50.2
+    [fastighetGuid] => 3R5IA24FJKDIEOHS
+    [fastighetsbeteckning] => Rockebro 7:164
+    [guid] => 3R5IBOKUTKDIF9JU
+    [lagenhetsnr] => 708132-1027
+    [objekttyp] => Hyreslägenhet
+    [omrade] => 
+    [status] => Hyresledig
+    [totalAntalVaningar] => 0
+    [vaningsplan] => 1
+    [upplatelseform] => Hyresrätt
+    [objektkategori] => 
+    [huvudhandlaggare] => stdClass Object
+        (
+            [namn] => Lena Klingstedt
+            [befattning] => 
+            [telefonDirekt] => 010-7060090
+            [telefonMobil] => 
+            [epost] => lena.klingstedt@m2gruppen.se
+            [handlaggartyp] => Uthyrare
+            [kategori] => 
+            [guid] => 429DDMCI9NCVDD7K
+            [avdelning] => 
+            [bildGuid] => 
+        )
+
+    [handlaggare2] => 
+    [bilder] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [namn] => Sommen Mossebogatan 6 o 8
+                    [kategori] => Exteriörbild
+                    [guid] => 45OJCL3JIPTI4K6O
+                    [andringsdatum] => 2013-07-02T13:37:17
+                    [filTyp] => JPG
+                    [bildText] => 
+                )
+
+        )
+
+    [filer] => Array
+        (
+        )
+
+    [adress] => stdClass Object
+        (
+            [gatuadress] => Mossebogatan 8 A
+            [ort] => Sommen
+            [postnummer] => 573 61
+            [land] => 
+            [landskod] => 
+        )
+
+    [ovrigaHandlaggare] => Array
+        (
+        )
+
+    [saljandeBeskrivningar] => stdClass Object
+        (
+            [rubrik] => 
+            [kort] => Fin lägenhet  nära sjön Sommen.
+            [lang] => 
+            [rubrikAnnons] => 
+            [rubrikAnnons2] => 
+            [annonsText] => 
+            [annonsText2] => 
+        )
+
+    [ovrigt] => 
+    [vagbeskrivning] => stdClass Object
+        (
+            [rT90X] => 6434805
+            [rT90Y] => 1451729
+            [beskrivning] => 
+            [latitud] => 58.034658112827
+            [longitud] => 14.988084989361
+        )
+
+    [kontor] => stdClass Object
+        (
+            [gatuadress] => 
+            [postadress] => Box 2
+            [ort] => Tranås
+            [hemsida] => 
+            [postnummer] => 573 21
+            [kundNr] => 840027
+            [namn] => M2 Gruppen
+            [epost] => info@m2gruppen.se
+            [texter] => Array
+                (
+                )
+
+        )
+
+    [lankar] => Array
+        (
+        )
+
+    [kontratkuppgifter] => stdClass Object
+        (
+            [tilltradesdag] => 0001-01-01T00:00:00
+            [tidigasteTilltradelsedag] => Enligt överenskommelse
+        )
+
+    [parkering] => stdClass Object
+        (
+            [sammanstallning] => Garageplats. Till garageplatsen är det separat kö.
+P-plats 1: Parkeringsplats. Går att hyra för 87 kr/mån. Till parkeringsplatsen är det separat kö.
+P-plats 2: Parkeringsplats med eluttag. Går att hyra för 150 kr/mån.
+        )
+
+    [balkongUteplats] => stdClass Object
+        (
+            [sammanstallning] => Balkong
+Parabol ej tillåten.
+        )
+
+    [gemensammaUtrymmen] => stdClass Object
+        (
+            [sammanstallning] => Det finns cykelförråd, källarförråd och tvättstuga.
+            [gardsplats] => 
+            [gardsplatsText] => 
+        )
+
+    [hiss] => 
+    [internet] => stdClass Object
+        (
+            [sammanstallning] => Fast lina. Via kabel-TV.
+        )
+
+    [kommun] => stdClass Object
+        (
+            [lan] => Jönköping
+            [lkf] => 0687
+            [namn] => Tranås
+        )
+
+    [manadshyra] => stdClass Object
+        (
+            [hyra] => 3465
+            [text] => Månadshyra 3 465 kronor, i hyran ingår värme och vatten.
+            [tillagg1] => 0
+            [tillagg2] => 0
+            [tillagg3] => 0
+            [tillagg4] => 0
+            [tillagg1Text] => 
+            [tillagg2Text] => 
+            [tillagg3Text] => 
+            [tillagg4Text] => 
+        )
+
+    [omgivning] => stdClass Object
+        (
+            [beskrivning] => 
+            [kommunikationer] => Avstånd till busshållplats 50 meter.
+            [service] => 
+            [allmant] => 
+        )
+
+    [tvAnslutning] => stdClass Object
+        (
+            [sammanstallning] => Ansluten till kabelnät.
+        )
+
+    [rumsbeskrivningarKok] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+        )
+
+    [rumsbeskrivningarFri] => Array
+        (
+        )
+
+    [rumsbeskrivningarGrund] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+            [1] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+            [2] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+        )
+
+    [rumsbeskrivningarHygien] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [sSammanstallning] => 
+                )
+
+        )
+
+    [rumsbeskrivningarTvatt] => Array
+        (
+        )
+
+    [allmanBeskrivning] => stdClass Object
+        (
+            [beskrivning] => Fin lägenhet i mindre ort nära den fantastiska sjön Sommen
+            [arkitekt] => 
+            [historik] => 
+            [kommunikation] => 
+            [omgivning] => 
+            [service] => 
+        )
+
+    [internetinstallningar] => stdClass Object
+        (
+            [visaHyra] => 1
+            [visaVagbeskrivning] => 1
+            [visaGatuadress] => 1
+            [visaPris] => 
+            [enskiltBruk] => 
+        )
+
+    [egnaLagenhetsuppgifter] => stdClass Object
+        (
+            [xmlEgenDef] => <object table="CMBoLghKatED">
+	<fields>
+	</fields>
+</object>
+        )
+
+    [planlosning] => 
+    [rum] => stdClass Object
+        (
+            [badrum] => 
+            [kokstyp] => Kokvrå
+        )
+
+    [texter] => 
+)
+1 -->
+                                                          Yta: 50.2 kvm  
+                                                        <br/>
+                                                          Antal rum: 2
+                            
+                          
+                        
+                        
+
+                      </time>
+</div>
+<a class="news-grid__link" href="/bostader/3r5ibokutkdif9ju/">
+<h2>Mossebogatan 8 A</h2>
+</a>
+</div>
+</div>]

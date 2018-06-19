@@ -36,7 +36,29 @@ def WalinFastigheter():
 
 	print(message)
 
+def M2Gruppen():
+	#äkta
+	#raw_html = simple_get("https://www.m2gruppen.se/lediga-bostader/?ort=enk%C3%B6ping&antal_rum=V%C3%A4lj+antal+rum&filtered=1") 
+	#test
+	raw_html = simple_get("https://www.m2gruppen.se/lediga-bostader/?ort=sommen&antal_rum=V%C3%A4lj+antal+rum&filtered=1")
 
+
+	html = BeautifulSoup(raw_html, 'html.parser')
+	fastigheter	= html.find_all('div', attrs={'class':'box news-grid__item'})
+
+	message = ""; 
+	for condo in fastigheter: 
+		link = condo.find('a', attrs={'class':'news-grid__link'})
+		href = "https://www.m2gruppen.se"
+		href += link.get('href')
+		title = link.find('h2').contents
+		message += str(title) + ": " + href + "/n";
+
+	if(len(message) > 0 ):
+		#FormEmail(message)
+		Report("Lägenheter hos M2Gruppen hittades", fastigheter)
+	else:
+		Report("Inga Lägenheter ligger ute idag.", fastigheter)	
 
 
 
@@ -85,3 +107,5 @@ def Report(message, data):
 
 
 WalinFastigheter()
+M2Gruppen()
+

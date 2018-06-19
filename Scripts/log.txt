@@ -1,0 +1,25 @@
+2018-06-19 12:50:23.858772: Inga fastigheter ligger ute idag.
+2018-06-19 14:29:12.303772: Inga fastigheter ligger ute idag.
+2018-06-19 14:31:00.609290: Inga fastigheter ligger ute idag.
+2018-06-19 14:35:29.936303: Inga fastigheter ligger ute idag.
+2018-06-19 14:36:09.047706: Inga fastigheter ligger ute idag.
+2018-06-19 15:29:01.985565: Inga fastigheter ligger ute idag.
+2018-06-19 15:29:35.416183: Inga fastigheter ligger ute idag.
+2018-06-19 15:29:44.519356: Inga fastigheter ligger ute idag.
+2018-06-19 15:30:07.721158: Inga fastigheter ligger ute idag.
+2018-06-19 15:30:39.968986: Inga fastigheter ligger ute idag.
+2018-06-19 15:32:03.685171: Inga fastigheter ligger ute idag.
+2018-06-19 15:32:16.903121: Inga fastigheter ligger ute idag.
+2018-06-19 15:34:34.183938: Inga fastigheter ligger ute idag.
+2018-06-19 15:34:52.045455: Inga fastigheter ligger ute idag.
+2018-06-19 15:35:04.297329: Inga fastigheter ligger ute idag.
+2018-06-19 15:35:46.164226: Inga fastigheter ligger ute idag.
+2018-06-19 15:36:12.764792: Inga fastigheter ligger ute idag.
+2018-06-19 15:36:24.296453: Inga fastigheter ligger ute idag.
+2018-06-19 15:37:00.318821: Inga fastigheter ligger ute idag.
+2018-06-19 15:38:06.003359: Inga fastigheter ligger ute idag.
+2018-06-19 15:38:19.478186: Inga fastigheter ligger ute idag.
+2018-06-19 15:45:18.755023: Inga fastigheter ligger ute idag.
+2018-06-19 15:46:03.908138: Inga fastigheter ligger ute idag.
+2018-06-19 15:47:21.846843: Inga fastigheter ligger ute idag.
+2018-06-19 15:47:22.356237: Lägenheter hos M2Gruppen hittades
