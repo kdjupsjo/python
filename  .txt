@@ -1,6 +1,0 @@
-[<div class="fastighet infobox">
-<h2>Söker du bostad?</h2>
-<p class="readmore">
-<a href="http://wahlinfastigheter.se?page_id=520">Läs mer här <i class="fa fa-angle-double-right"></i></a>
-</p>
-</div>]
